@@ -9,9 +9,10 @@ Bajá **`WhatsFlyout-Instalador-x.y.z.exe`** desde la [última versión](../../r
 - Se instala para tu usuario, sin pedir permisos de administrador.
 - La primera vez, escaneá el código QR desde el celular (WhatsApp → Dispositivos vinculados).
 - Para actualizar: menú del ícono → **Buscar actualizaciones…** (la app también avisa sola cuando hay una versión nueva).
+- ¿Algo no anda? Menú del ícono → **Enviar diagnóstico…** (solo datos técnicos, nada de tus chats).
 - Para desinstalar: Configuración de Windows → Aplicaciones → WhatsFlyout.
 
-Si Windows muestra "Windows protegió tu PC", tocá **Más información → Ejecutar de todas formas** (el instalador todavía no está firmado digitalmente).
+Si Windows muestra **"Windows protegió su PC"**, tocá **Más información → Ejecutar de todas formas** (el instalador todavía no está firmado digitalmente).
 
 Requisitos: Windows 10 u 11 (con el runtime de Microsoft Edge WebView2, que ya viene instalado).
 
